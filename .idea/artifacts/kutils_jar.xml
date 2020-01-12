@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kutils:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/kutils_jar</output-path>
+    <root id="archive" name="kutils.jar">
+      <element id="module-output" name="kutils" />
+    </root>
+  </artifact>
+</component>
